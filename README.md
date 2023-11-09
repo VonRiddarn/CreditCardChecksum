@@ -18,4 +18,4 @@ Use https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_num
 ## Why was it made
 This program was only made in order to prove my capability of understanding and breaking down problems.<br/>
 It serves no other purpose than being a receipt of my knowledge.<br/>
-<b>This is also the reason as to why the code is so heavily over-commented.</b>
+<b><i>This is also the reason as to why the code is so heavily over-commented.</i></b>
