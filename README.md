@@ -1,4 +1,4 @@
-# Easy Console
+# Credit card checksum
 
 <p align="center">
   <img src="https://imgur.com/X3tVPeU"/>
