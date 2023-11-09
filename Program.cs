@@ -82,7 +82,7 @@ internal class Program
 
 			// Loop through all the definitions of this card in the global scope cards list.
 			// Eg MasterCard: 51, 52, 53, 54, 55
-			foreach (string definition in manifacturer.definitions)
+			foreach (string definition in manifacturer.definitions!)
 			{
 				if (cardDefinition == definition)
 				{
