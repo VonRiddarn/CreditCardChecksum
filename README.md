@@ -1,11 +1,11 @@
 # Credit card checksum
 
 <p align="center">
-  <img src="https://imgur.com/X3tVPeU"/>
+  <img src="https://i.imgur.com/X3tVPeU.png"/>
 </p>
 <p align="center">A simple way of checking if a credit card is valid or not.</p>
 
-## About_
+## About
 
 This is a simple program that takes a credit card number and checks if it's a legit card.<br/>
 The program is written in .NET 6.0 but should work on any and all versions of .NET and .NET Core.
